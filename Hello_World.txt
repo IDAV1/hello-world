@@ -1,4 +1,1 @@
-This is my new file to see if Git is working.
-And does it populate changes back to local. 
-After watching video tutorial.
-And now I have installed GitHub desktop… another trial :)
+New changes added
